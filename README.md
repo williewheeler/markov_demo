@@ -3,4 +3,12 @@
 Markov model simulation to show that simulated results converge to
 analytically-derived results.
 
-See https://learnstats.io/tutorials/r/solve-markov-model-r
+## Files
+
+- markov.R: analytic results
+- markov_demo.py: simulation
+- markov.dat: generated sequence of states that can be used to estimate the transition matrix
+
+## Further reading
+
+- https://learnstats.io/tutorials/r/solve-markov-model-r
