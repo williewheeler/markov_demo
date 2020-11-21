@@ -7,7 +7,7 @@ analytically-derived results.
 
 - markov.R: analytic results
 - markov_demo.py: simulation
-- markov.dat: generated sequence of states that can be used to estimate the transition matrix
+- lad.dat: generated sequence of states that can be used to estimate the transition matrix
 
 ## Further reading
 
