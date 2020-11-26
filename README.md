@@ -11,4 +11,4 @@ analytically-derived results.
 
 ## Further reading
 
-- https://learnstats.io/tutorials/r/solve-markov-model-r
+- https://learnstats.io/tutorials/r/discrete-time-markov-chains-r
